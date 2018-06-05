@@ -1,4 +1,12 @@
-
+/**
+ * DOF.
+ * by Jean Pierre Charalambos.
+ *
+ * This example implements a Depth-Of-Field (DOF) shader effect
+ * using the traverse(), traverse(PGraphics), display() and
+ * display(PGraphics) Scene methods.
+ */
+ 
 import remixlab.proscene.*;
 import remixlab.dandelion.core.*;
 import remixlab.dandelion.constraint.*;
