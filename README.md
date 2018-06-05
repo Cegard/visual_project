@@ -1,4 +1,4 @@
-# shaders-interact
+# visual_project
 
 ## Objetivo
 
